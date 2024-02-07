@@ -1,2 +1,2 @@
-# Data_Structuires_and_Algorithms
+# Austin Code
 Austin course code repositories
